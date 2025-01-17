@@ -59,4 +59,18 @@ Example of getting the latest timestamp:
 string memory timestamp = getLatestTimestamp();
 
 
+### Screenshots
+![Снимок экрана 2025-01-17 144032](https://github.com/user-attachments/assets/73614f86-aab0-48d2-99de-cbe5ff9e5989)
+![Снимок экрана 2025-01-17 184302](https://github.com/user-attachments/assets/616acaac-fe72-4e0d-b5ef-743ac16ebcb6)
+![Снимок экрана 2025-01-17 183903](https://github.com/user-attachments/assets/30c160f3-32d5-4a3d-850c-ce1f10371494)
+![Снимок экрана 2025-01-17 182146](https://github.com/user-attachments/assets/d5ccd8e1-f9d0-47e6-8d76-94db675f9a79)
+![Снимок экрана 2025-01-17 183845](https://github.com/user-attachments/assets/7ab671bb-2450-4b6a-83d2-ce514586fe28)
+![Снимок экрана 2025-01-17 185003](https://github.com/user-attachments/assets/7354da58-12c0-4eac-924d-4da7a7bb5bf2)
+![Снимок экрана 2025-01-17 184736](https://github.com/user-attachments/assets/c122c694-6ad3-4d16-b871-65ec3075cb2d)
+![Снимок экрана 2025-01-17 184900](https://github.com/user-attachments/assets/d00db20a-c655-4a6a-b313-00f33cf3279b)
+![Снимок экрана 2025-01-17 200534](https://github.com/user-attachments/assets/bd57b118-bed7-4576-a559-36419dd4d437)
+![Снимок экрана 2025-01-17 200548](https://github.com/user-attachments/assets/145611e7-3554-4e41-baa5-64ace392d5b1)
+![Снимок экрана 2025-01-17 200609](https://github.com/user-attachments/assets/f2bdf5ac-7381-4397-b628-70c79dd02f2d)
+![Снимок экрана 2025-01-17 200621](https://github.com/user-attachments/assets/79b9d0fc-7d47-4726-83f4-f59ac52de7d1)
+
 
