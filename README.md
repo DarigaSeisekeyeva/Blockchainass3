@@ -73,4 +73,5 @@ string memory timestamp = getLatestTimestamp();
 ![Снимок экрана 2025-01-17 200609](https://github.com/user-attachments/assets/f2bdf5ac-7381-4397-b628-70c79dd02f2d)
 ![Снимок экрана 2025-01-17 200621](https://github.com/user-attachments/assets/79b9d0fc-7d47-4726-83f4-f59ac52de7d1)
 
-
+Group:SE-2321
+Bazarova Zarema, Seisekeeva Dariga, Zhalgassova Saniya
