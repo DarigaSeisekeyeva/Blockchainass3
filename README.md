@@ -1,4 +1,4 @@
-##UniversityToken ERC-20
+## UniversityToken ERC-20
 
 Overview
 
