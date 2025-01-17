@@ -1,4 +1,4 @@
-UniversityToken ERC-20
+##UniversityToken ERC-20
 
 Overview
 
@@ -55,3 +55,6 @@ Example of fetching a transaction:
 (uint256 sender, uint256 receiver, uint256 amount, uint256 timestamp) = getTransaction(0);
 Example of getting the latest timestamp:
 string memory timestamp = getLatestTimestamp();
+
+
+
